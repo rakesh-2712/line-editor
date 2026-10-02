@@ -41,3 +41,29 @@ Compile using GCC:
 
 ```bash
 gcc line_editor.c -o line_editor
+```
+
+Run the program:
+
+```bash
+./line_editor
+```
+
+## Team Members
+
+- Rakesh
+
+## Work Completed
+
+- Designed the data structure and command structure.
+- Implemented the insert operation.
+- Implemented the delete operation.
+- Implemented the display operation.
+- Tested empty document and line insertion/deletion cases.
+- Created HELP.md with command documentation.
+
+## Learning Outcome
+
+This project provided practical experience with arrays of strings,
+functions, input handling, string manipulation, and command-line
+program design in C.
